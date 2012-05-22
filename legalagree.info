@@ -1,0 +1,5 @@
+; $Id$
+name = Legal Agreement
+description = Displays a legal agreement during user registration process.
+package = Other
+core = 6.x
